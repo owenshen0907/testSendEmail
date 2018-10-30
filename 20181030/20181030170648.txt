@@ -1,0 +1,16 @@
+内容有：5行数据。
+发送邮箱为：caijing@yonglun.com.cn；密码：Cj19941124
+如果程序出现错误请检查配置文件是否正确。
+从Sebnder_config.ini邮件配置，模版格式等，确认都没问题之后再联系IT
+***********～。～*******
+使用内容表第8列，以及邮件表第2列匹配邮件地址
+匹配成功后Email表第4列，作为收件箱
+Email表第5列，作为抄收件箱
+永伦投资咨询启东有限公司哈尔滨道里分公司; attachment is 20181030/永伦投资咨询启东有限公司哈尔滨道里分公司.csv
+ has sent To caijing@yonglun.com.cn,shenting@yonglun.com.cn
+has sent Cc  :caijing@yonglun.com.cn,844413053@qq.com,414655203@qq.com
+-----------------------------
+永伦投资咨询启东有限公司齐齐哈尔分公司; attachment is 20181030/永伦投资咨询启东有限公司齐齐哈尔分公司.csv
+ has sent To caijing@yonglun.com.cn,shenting@yonglun.com.cn
+has sent Cc  :caijing@yonglun.com.cn,844413053@qq.com,414655227@qq.com
+-----------------------------
